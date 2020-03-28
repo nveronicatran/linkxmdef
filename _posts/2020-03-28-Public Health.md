@@ -1,5 +1,5 @@
 ---
-title: Silver Blaze
+title: Public Health
 author: Arthur Conan Doyle
 category: literature
 layout: post
